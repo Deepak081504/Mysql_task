@@ -1,0 +1,48 @@
+Task 1: SQL Queries & CRUD Operations
+
+1. Database Creation
+
+Explanation: 
+        Creating a new database named 'student_db' and selecting it for active use.
+
+2. Table Creation
+
+Explanation:
+        Creating a table named 'students' with suitable columns (id, name, age, dept, city). The 'id' column is set as the Primary Key with auto-increment.
+
+3. Create (INSERT)
+
+Explanation: 
+        Inserting 5 new student records into the 'students' table.
+
+4. Read (SELECT)
+
+Explanation:
+        Retrieving all data from the table, and then retrieving only specific columns (name and dept).
+
+5. Update
+
+Explanation: 
+        Updating the city of the student with id 2 to 'Bangalore' using the WHERE clause.
+
+6. Delete
+
+Explanation:
+        Deleting the record of the student with id 4 from the table using the WHERE clause.
+
+7. Truncate
+
+Explanation:
+        Removing all records from the 'students' table completely while keeping the table structure intact.
+
+Task 2: SQL Conditions & Operators
+
+1. Practice filtering data using Operators
+
+Explanation: 
+        Using various comparison operators to filter data based on specific conditions.
+
+2. Use WHERE clause with SELECT, UPDATE, DELETE
+
+Explanation: 
+        Applying the WHERE clause to perform selective read, update, and delete operations to avoid modifying the entire table.
